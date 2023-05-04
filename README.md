@@ -16,4 +16,4 @@ run docker-compose:
 
 ```
 
-after check the localhost and see the website
+after check localhost and see the website
