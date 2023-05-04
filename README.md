@@ -15,3 +15,5 @@ run docker-compose:
   docker-compose up -d
 
 ```
+
+after check the localhost and see the website
